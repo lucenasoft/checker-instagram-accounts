@@ -1,0 +1,10 @@
+{
+    "win32_chromedriver_97.0.4692.71_for_": {
+        "timestamp": "24/01/2022",
+        "binary_path": "userdate\\driver\\drivers\\chromedriver\\win32\\97.0.4692.71\\chromedriver.exe"
+    },
+    "win32_chromedriver_99.0.4844.51_for_": {
+        "timestamp": "27/03/2022",
+        "binary_path": "userdate\\driver\\drivers\\chromedriver\\win32\\99.0.4844.51\\chromedriver.exe"
+    }
+}
